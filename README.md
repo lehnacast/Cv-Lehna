@@ -28,7 +28,4 @@ J’ai utilisé des éléments de mise en forme Markdown comme :
 - Texte en gras et en italique
 - Insertion d’image
 
----
-
-Merci pour votre lecture !
 
