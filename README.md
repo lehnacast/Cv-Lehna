@@ -13,7 +13,6 @@ L’objectif était de créer un CV entièrement en **Markdown**, en utilisant G
 
 - Markdown
 - Git / GitHub
-- GitHub Pages (optionnel)
 
 ## ✍️ Choix et justification
 
