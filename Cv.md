@@ -13,4 +13,4 @@
 - Markdown, GitHub, HTML, Word, PowerPoint, Excel 
 
 ## 📸 Image
-![Photo](photo.png)
+![Photo](Photo.png)
